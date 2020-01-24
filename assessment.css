@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(90deg, #f6ff00cc, #ff00a1cc);
+   color:#ffffff;
+   text-align: center
+    /*
+最初の背景の色は＃0043A8だった
+*/
+}
+
+
+button{
+    display: inline-block;
+    padding: 0.5em 1em;
+    text-decoration: none;
+    background: #d86692;
+    color: #FFF;
+    border-radius: 4px;
+    box-shadow: 0px 0px 0px 5px #d86692;
+    border: dashed 1px #FFF;
+  }
+    
+
+
+input{
+    height: 25px;
+}
